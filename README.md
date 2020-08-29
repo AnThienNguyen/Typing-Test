@@ -15,4 +15,4 @@ To run this script, you must have selenium installed on your machine as well as 
 
 * [Python](https://www.python.org/)
 
-* [Selenium](https://selenium-python.readthedocs.io/)"# Typing-Test" 
+* [Selenium](https://selenium-python.readthedocs.io/)
